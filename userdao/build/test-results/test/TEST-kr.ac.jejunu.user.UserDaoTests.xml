@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kr.ac.jejunu.user.UserDaoTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-14T13:07:12" hostname="yongjae-ubuntu" time="0.517">
+  <properties/>
+  <testcase name="get()" classname="kr.ac.jejunu.user.UserDaoTests" time="0.517"/>
+  <system-out><![CDATA[1
+hulk
+1234
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
