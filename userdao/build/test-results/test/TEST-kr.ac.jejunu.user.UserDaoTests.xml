@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="kr.ac.jejunu.user.UserDaoTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-17T08:50:46" hostname="yongjae-ubuntu" time="0.488">
+<testsuite name="kr.ac.jejunu.user.UserDaoTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-17T09:52:53" hostname="yongjae-ubuntu" time="0.529">
   <properties/>
-  <testcase name="insert()" classname="kr.ac.jejunu.user.UserDaoTests" time="0.459"/>
-  <testcase name="get()" classname="kr.ac.jejunu.user.UserDaoTests" time="0.028"/>
+  <testcase name="insert()" classname="kr.ac.jejunu.user.UserDaoTests" time="0.438"/>
+  <testcase name="insertHalla()" classname="kr.ac.jejunu.user.UserDaoTests" time="0.056"/>
+  <testcase name="get()" classname="kr.ac.jejunu.user.UserDaoTests" time="0.016"/>
+  <testcase name="getHalla()" classname="kr.ac.jejunu.user.UserDaoTests" time="0.016"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
